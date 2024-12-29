@@ -1,4 +1,4 @@
-# Address to Library Card
+# Address to Library Card Program
 
-Given a patron's street address, return which public library system the patron should get a card from in West Michigan
+This program connects a patron based on their street address in West Michigan to the public library system they can get a card from.  
  
